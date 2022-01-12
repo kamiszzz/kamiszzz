@@ -4,7 +4,6 @@
 - 🌱 Estou buscando a aprender programação
 - 🤔 Eu estou procurando ajuda em programação
 - 💬 Me pergunte sobre qualquer coisa
-- 📫 Contato: kamillabborges@gmail.com
 - 😄 Pronome: ela/dela
 
 ##
