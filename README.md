@@ -1,6 +1,6 @@
 ## Olá, eu sou a Kamilla Borges!  👋
 
-- 🔭 Eu ultimamente estou estudando A.D.S
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estou buscando a aprender programação
 - 🤔 Eu estou procurando ajuda em programação
 - 💬 Me pergunte sobre qualquer coisa
