@@ -1,5 +1,5 @@
 ## Olá, eu sou a Kamilla Borges :D
-Fomrção: Análise e Desenvolvimento de Sistemas
+Formação: Análise e Desenvolvimento de Sistemas
 - Eu curto aprender novas tecnologias e adoro novas oportunidades!
 
 
