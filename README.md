@@ -1,5 +1,5 @@
 ## Olá, eu sou a Kamilla Borges :D
-Formação: Análise e Desenvolvimento de Sistemas
+Sou formada em: Análise e Desenvolvimento de Sistemas
 - Eu curto aprender novas tecnologias e adoro novas oportunidades!
 
 
