@@ -8,3 +8,12 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamiszzz&bg_color=220330&color=ffffff&line=8b0bf4&point=5900ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
