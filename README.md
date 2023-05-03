@@ -10,4 +10,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamiszzz&&bg_color=27004D&color=6600CC&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamiszzz&bg_color=220330&color=ffffff&line=8b0bf4&point=5900ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
