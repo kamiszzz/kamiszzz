@@ -6,6 +6,21 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kamiszzz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+##
+
+<div align="center">
+  <a href="https://github.com/kamiszzz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamiszzz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiszzz&layout=compact&langs_count=7&theme=panda"/>
+</div>
+<div align="end">
+  <img  height="180em" src="https://user-images.githubusercontent.com/93733085/149221567-d5894b6d-d799-420e-aaeb-8881d15b8508.png"/>
+
+</div>
+
+##
+ 
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kamiszzz&bg_color=220330&color=ffffff&line=8b0bf4&point=5900ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
