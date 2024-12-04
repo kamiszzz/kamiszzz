@@ -10,12 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamiszzz&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamiszzz&layout=compact&langs_count=7&theme=panda"/>
 </div>
-<div align="end">
-  <img  height="180em" src="https://user-images.githubusercontent.com/93733085/149221567-d5894b6d-d799-420e-aaeb-8881d15b8508.png"/>
 
-</div>
  
-
 <div align="center"> 
   <a href="https://www.instagram.com/kamis2z/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kamillabborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
