@@ -21,6 +21,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kamiszzz}/count.svg" /></p> 
 <br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5900ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=100&section=footer"/>
